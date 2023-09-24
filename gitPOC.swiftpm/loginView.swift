@@ -10,7 +10,7 @@ import SwiftUI
 struct loginView: View {
     var body: some View {
         HStack{
-            Text("Name")
+            Text("Name robo")
         }}
 }
 
