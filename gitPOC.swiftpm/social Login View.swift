@@ -11,6 +11,7 @@ struct social_Login_View: View {
     var body: some View {
         Text("social login")
         Text("apple Login")
+        Text("social login1")
     }
 }
 
